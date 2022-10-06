@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @ammarabdalrahem
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Ammar Abdalrahem</h1>
 
-<!---
-ammarabdalrahem/ammarabdalrahem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ammarabdalrahem&label=Views&color=blue&style=plastic&style=for-the-badge" alt="ammarabdalrahem" /> </p>
+
+- 👋 Hi, I’m @ammarabdalrahem
+- 👀 I’m interested in plant genetics 
+- 🌱 I’m currently learning Snakemake workflow
+- 📫 How to reach me Twitter- @AbdalrahemAmmar
+
