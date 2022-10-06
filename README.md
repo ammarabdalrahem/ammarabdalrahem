@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammarabdalrahem&label=Views&color=blue&style=plastic&style=for-the-badge" alt="ammarabdalrahem" /> </p>
 
 # 💫 About Me :
-- 👋 Hi, I’m @ammarabdalrahem
 - 👀 I’m interested in plant genetics 
 - 🌱 I’m currently learning Snakemake workflow
 
