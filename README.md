@@ -20,7 +20,7 @@
 ![R](https://img.shields.io/badge/R-BCBCBC?style=for-the-badge&logo=R&logoColor=2986CC)
 
 
- ## 💳 Github Profile Summary Card
+ ## Github Profile Summary Card
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ammarabdalrahem&theme=vue"/>
 </p>
