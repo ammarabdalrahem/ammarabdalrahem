@@ -9,5 +9,5 @@
 - 👀 I’m interested in plant genetics 
 - 🌱 I’m currently learning Snakemake workflow
 - 📫 How to reach me Twitter
-- [![Twitter](https://img.shields.io/twitter/follow/AbdalrahemAmmar?logo=Twitter&style=for-the-badge)](https://twitter.com/AbdalrahemAmmar)
+ [![Twitter](https://img.shields.io/twitter/follow/AbdalrahemAmmar?logo=Twitter&style=for-the-badge)](https://twitter.com/AbdalrahemAmmar)
 
